@@ -1,0 +1,27 @@
+[
+  {
+    "id": "faq-1",
+    "question": "How do I apply for a house on NyumbaHub?",
+    "answer": "Browse listings, open a property you like, click Apply Now, fill in your student details, and submit. You will receive a reference number to track your application."
+  },
+  {
+    "id": "faq-2",
+    "question": "Can I pay rent through the portal?",
+    "answer": "Yes. After your application is approved, use the Pay Rent section with M-Pesa. Enter your phone number and confirm the STK push on your phone."
+  },
+  {
+    "id": "faq-3",
+    "question": "How do I contact a landlord?",
+    "answer": "Every listing shows the landlord profile with a WhatsApp button. Tap it to chat directly about viewing the house."
+  },
+  {
+    "id": "faq-4",
+    "question": "Is NyumbaHub affiliated with Meru University?",
+    "answer": "NyumbaHub is an independent platform built to help Meru University students find verified off-campus housing in Nchiru, Kianjai, and nearby estates."
+  },
+  {
+    "id": "faq-5",
+    "question": "What documents do I need?",
+    "answer": "Your admission letter or student ID, parent/guardian contact, and M-Pesa for deposit payment after approval."
+  }
+]

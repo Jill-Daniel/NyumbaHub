@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t-1",
+    "name": "Brian M.",
+    "course": "BSc Computer Science, Year 1",
+    "text": "Found my room in one day through NyumbaHub. Paid deposit via M-Pesa and moved in the same week!",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "rating": 5
+  },
+  {
+    "id": "t-2",
+    "name": "Faith W.",
+    "course": "BEd Arts, Year 1",
+    "text": "The WhatsApp link connected me directly to my landlord. No middlemen, no stress.",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+    "rating": 5
+  },
+  {
+    "id": "t-3",
+    "name": "Kevin O.",
+    "course": "BCom, Year 2",
+    "text": "I got a room at Green House through NyumbaHub. Photos looked like real comrade rooms, not fake luxury pics!",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+    "rating": 5
+  }
+]

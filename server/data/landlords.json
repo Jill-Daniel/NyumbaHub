@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ll-001",
+    "name": "James Mwiti",
+    "company": "Nchiru Comrades Housing",
+    "phone": "+254712345601",
+    "whatsapp": "254712345601",
+    "email": "james@nchirucomrades.co.ke",
+    "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+    "bio": "Manages Green House, Blue House, and White House near Meru University main gate.",
+    "verified": true,
+    "rating": 4.8,
+    "totalListings": 4
+  },
+  {
+    "id": "ll-002",
+    "name": "Grace Kanana",
+    "company": "Kianjai Student Hostels",
+    "phone": "+254723456702",
+    "whatsapp": "254723456702",
+    "email": "grace@kianjaihostels.co.ke",
+    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+    "bio": "Landlady for Pink House, Blessings Hostel, and Omega Apartments around Kianjai.",
+    "verified": true,
+    "rating": 4.9,
+    "totalListings": 3
+  },
+  {
+    "id": "ll-003",
+    "name": "Peter Kariuki",
+    "company": "Nchiru Flats & Apartments",
+    "phone": "+254734567803",
+    "whatsapp": "254734567803",
+    "email": "peter@nchiruapartments.co.ke",
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    "bio": "Runs Red House, Yellow House, Panama, and Dallas — popular with MKU comrades.",
+    "verified": true,
+    "rating": 4.7,
+    "totalListings": 4
+  },
+  {
+    "id": "ll-004",
+    "name": "Mary Njoki",
+    "company": "Budget Comrade Rooms",
+    "phone": "+254745678904",
+    "whatsapp": "254745678904",
+    "email": "mary@budgetcomrades.co.ke",
+    "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop",
+    "bio": "Affordable Black House, B7 Flats, and Destiny Flats for freshers on a budget.",
+    "verified": true,
+    "rating": 4.6,
+    "totalListings": 3
+  }
+]
